@@ -12,4 +12,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: b2e38720707f4974682585c451e9c9d9, type: 3}
   m_Name: ConfigInstaller
   m_EditorClassIdentifier: 
+  itemDatabase: {fileID: 11400000, guid: 43e2a13cadde08f469bb4afe1149b1fd, type: 2}
   playerConfig: {fileID: 11400000, guid: b4548ff36b125f9448cf318d9161b04a, type: 2}
+  backpackConfig: {fileID: 11400000, guid: bfab3595ae4de2547876d5bec149108e, type: 2}

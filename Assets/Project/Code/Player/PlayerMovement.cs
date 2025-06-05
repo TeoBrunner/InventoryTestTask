@@ -14,7 +14,9 @@ public class PlayerMovement : MonoBehaviour
     {
         this.uIControlProvider = uIControlProvider;
         this.playerConfig = playerConfig;
-
+    }
+    private void Awake()
+    {
         rb = GetComponent<Rigidbody2D>();
     }
     void FixedUpdate()

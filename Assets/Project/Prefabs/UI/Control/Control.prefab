@@ -12,7 +12,7 @@ GameObject:
   - component: {fileID: 2104342460652492613}
   - component: {fileID: 2104342460652492612}
   - component: {fileID: 2104342460652492635}
-  m_Layer: 0
+  m_Layer: 5
   m_Name: FireButton
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -134,7 +134,7 @@ GameObject:
   - component: {fileID: 2104342461473259514}
   - component: {fileID: 2104342461473259513}
   - component: {fileID: 2104342461473259512}
-  m_Layer: 0
+  m_Layer: 5
   m_Name: Canvas
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -235,7 +235,7 @@ GameObject:
   - component: {fileID: 2104342461706914582}
   - component: {fileID: 2104342461706914576}
   - component: {fileID: 2104342461706914583}
-  m_Layer: 0
+  m_Layer: 5
   m_Name: Icon
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -309,7 +309,7 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 2104342462177995089}
-  m_Layer: 0
+  m_Layer: 5
   m_Name: Control
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -344,7 +344,7 @@ GameObject:
   - component: {fileID: 2104342462341765874}
   - component: {fileID: 2104342462341765884}
   - component: {fileID: 2104342462341765875}
-  m_Layer: 0
+  m_Layer: 5
   m_Name: Buttons
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -421,7 +421,7 @@ GameObject:
   m_Component:
   - component: {fileID: 692108530493002069}
   - component: {fileID: 3785217624853319204}
-  m_Layer: 0
+  m_Layer: 5
   m_Name: Provider
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -455,7 +455,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: f7f695cd478c29846989aef9a8f27028, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  uiJoystick: {fileID: 2947681387685196835}
+  uIJoystick: {fileID: 2947681387685196835}
   fireButton: {fileID: 2104342460652492635}
   backpackButton: {fileID: 4673651884740209945}
 --- !u!1 &5587206068960053384
@@ -469,7 +469,7 @@ GameObject:
   - component: {fileID: 7067718353216963483}
   - component: {fileID: 6411654708616943459}
   - component: {fileID: 9181374578195403429}
-  m_Layer: 0
+  m_Layer: 5
   m_Name: Icon
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -546,7 +546,7 @@ GameObject:
   - component: {fileID: 2082597685546326833}
   - component: {fileID: 8360371656273462725}
   - component: {fileID: 4673651884740209945}
-  m_Layer: 0
+  m_Layer: 5
   m_Name: BackpackButton
   m_TagString: Untagged
   m_Icon: {fileID: 0}
